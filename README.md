@@ -5,7 +5,7 @@ everyday needs.**
 
 Spend crypto on real-world products, services, apps, and everyday essentials without unnecessarily linking your purchases to public wallet activity.
 
-[Website](https://payz.world) · [X](https://x.com/payz_world)
+[Website](https://payz.world) · [X](https://x.com/payzworld)
 
 ## Product principles
 
