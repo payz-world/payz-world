@@ -29,6 +29,7 @@ Payz is organized into focused repositories, each with a distinct responsibility
 | [payz-payment-engine](https://github.com/payz-world/payz-payment-engine) | Payment selection, checkout orchestration, and purchase lifecycle. |
 | [payz-privacy-router](https://github.com/payz-world/payz-privacy-router) | Payment route quotes, exchange creation, and status mapping. |
 | [payz-contracts](https://github.com/payz-world/payz-contracts) | An Ethereum registry that records opaque nullifiers after purchase access is closed. Authorized submitter: [0x18f4…60c5](https://etherscan.io/address/0x18f4939f0e7b8a39faa0afdb205ceb21fa7060c5). |
+| [payz-rewards](https://github.com/payz-world/payz-rewards) | Ethereum PAYZP points contract for capped issuance and redemption requests; distributor and fulfillment are not active. |
 | [payz-settlement](https://github.com/payz-world/payz-settlement) | Settlement address configuration and Ethereum USDC transfer verification. |
 | [payz-fulfillment](https://github.com/payz-world/payz-fulfillment) | Purchase fulfillment and delivery of redemption details. |
 | [payz-catalog](https://github.com/payz-world/payz-catalog) | Product catalog, normalization, availability, and pricing. |
